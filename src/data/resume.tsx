@@ -45,7 +45,7 @@ export const DATA = {
       },
       LinkedIn: {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/muhammad-wasif001",
+        url: "www.linkedin.com/in/muhammad-wasif001",
         icon: Icons.linkedin,
 
         navbar: true,
@@ -121,16 +121,15 @@ export const DATA = {
     {
       title: "YTS Clone",
       href: "https://github.com/MWasiF1/YTS-Clone",
+      dates: "2024",
       active: true,
       description:
         "Developed a full-featured YTS clone that serves as a movie streaming and download platform. This project replicates key functionalities of the YTS platform, allowing users to browse, search, and filter movies by genre, rating, and release year. The application integrates a responsive UI and a smooth navigation experience, with high-quality posters, movie details, and trailers. Implemented backend services to manage movie data and user interactions, using efficient APIs to ensure fast loading times and a scalable database to handle user data and movie content. ",
-       date: "2024" ,
       technologies: [
         "Angular.ts",
         "Typescript",
-        "Material UI",
-        "Ng Zoro",
         "TailwindCSS",
+        "Ng Zoro",
       ],
       links: [
         {
@@ -140,23 +139,8 @@ export const DATA = {
         },
       ],
       image: "",
-
-    }, {
-      title: "Check more of my projects on my GitHub",
-      href: "https://github.com/MWasiF1",
-      active: true,
-      description:
-        " Currently working on some very cool projects which are coming soon.Stay tunned...",
-
-      links: [
-        {
-          type: "GitHub",
-          href: "https://github.com/MWasiF1",
-          icon: <Icons.globe className="size-3" />,
-        },
-      ],
-      image: "",
-
+      video:
+        "",
     },
    
   ],
