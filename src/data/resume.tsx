@@ -124,6 +124,7 @@ export const DATA = {
       active: true,
       description:
         "Developed a full-featured YTS clone that serves as a movie streaming and download platform. This project replicates key functionalities of the YTS platform, allowing users to browse, search, and filter movies by genre, rating, and release year. The application integrates a responsive UI and a smooth navigation experience, with high-quality posters, movie details, and trailers. Implemented backend services to manage movie data and user interactions, using efficient APIs to ensure fast loading times and a scalable database to handle user data and movie content. ",
+       date: "2024" ,
       technologies: [
         "Angular.ts",
         "Typescript",
